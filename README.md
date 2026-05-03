@@ -1,6 +1,6 @@
 ## MetaVault AI
 
-MetaVault AI is an LLM-assisted metadata engineering platform that automates the transformation of ERP schemas into Data Vault 2.0 models (Hubs, Links, Satellites).
+MetaVault AI is an LLM-assisted metadata engineering platform that automates the transformation of schemas into Data Vault 2.0 models (Hubs, Links, Satellites).
 
 Built using Python and Streamlit, the platform integrates AI-driven schema interpretation with rule-based validation and human-in-the-loop approval to ensure reliable and production-ready metadata.
 
@@ -14,7 +14,7 @@ Built using Python and Streamlit, the platform integrates AI-driven schema inter
 - Modular architecture for Fabric / PySpark integration
 
 ### Workflow
-ERP Schema → LLM Processing → Metadata Generation → Validation → Approval → Storage
+Schema → LLM Processing → Metadata Generation → Validation → Approval → Storage
 
 ### Tech Stack
 - Python
